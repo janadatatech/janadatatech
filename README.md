@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jeevahan Selva AKA Jeeves 👋
 
-<!--
-**janadatatech/janadatatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✈️ About Me
+Jeevahan Aviation & Numerical Analysis (J.A.N.A) is a data-driven initiative focused on aviation analytics, with expanding interests in fintech and cross-industry business intelligence. I want to experiment with analysing a wide variety of data for multiple use-cases and be able to provide useful business insight for clients
 
-Here are some ideas to get you started:
+## 📊 What I Do
+- Aviation data analysis and insights
+- Business intelligence and reporting
+- Data visualization and storytelling
+- Exploring real-world datasets using Python and other key software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+- Python
+- Pandas
+- SQL
+- Matplotlib / Seaborn
+- Jupyter Notebook
+- Tableau
+
+## 🎯 Current Focus
+Building beginner-to-advanced data analysis projects focused on aviation and other sectors in relation to fintech
+
+## 📌 Featured Project
+🚧 (Coming Soon)
+
+## 📫 Connect With Me
+Always open to collaboration and learning opportunities. Please kindly feel free to reach out to me at janadatatech@gmail.com.
